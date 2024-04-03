@@ -11,7 +11,7 @@ ChatBot is a conversational AI chatbot powered by the BlenderBot model from Hugg
 
 2. Navigate to the project directory:
    ```
-   cd ChatBot
+   cd LLM_application_chatbot/ls
    ```
 
 3. Install dependencies using pip:
